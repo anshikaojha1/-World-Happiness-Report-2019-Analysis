@@ -33,13 +33,27 @@ A detailed data analysis project using the World Happiness Report 2019 dataset. 
 
 ## 📈 Key Visualizations
 
-- Choropleth map of global happiness scores.
-- Heatmap of correlation between happiness factors.
-- Regression plot: GDP vs Happiness Score.
-- Bar plot: Nordic vs Other countries.
-- Line plot: Happiness despite low GDP.
+Choropleth Map of Global Happiness Scores (2019)
 
----
+
+
+- Heatmap of correlation between happiness factors.
+![image](https://github.com/user-attachments/assets/7f9fac14-091c-4381-9ce0-625512ffe56e)
+
+
+
+ Regression plot: GDP vs Happiness Score.
+![image](https://github.com/user-attachments/assets/c6bfdae9-4be8-49cd-bac1-b0895f305839)
+
+
+ Bar plot: Nordic vs Other countries
+![image](https://github.com/user-attachments/assets/dc96259a-2a02-4cc7-8070-04f67a6ce48b)
+
+
+Line plot: Happiness despite low GDP.
+![image](https://github.com/user-attachments/assets/33251270-d883-4cea-83b3-6225d39b457d)
+
+
 
 ## 🔍 Key Insights
 
@@ -48,6 +62,8 @@ A detailed data analysis project using the World Happiness Report 2019 dataset. 
 - Nordic countries consistently rank highest in happiness.
 - Some countries maintain high happiness despite low GDP, possibly due to strong social support and life satisfaction.
   
----
+
+
+
 
 
