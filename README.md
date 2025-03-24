@@ -34,10 +34,11 @@ A detailed data analysis project using the World Happiness Report 2019 dataset. 
 ## 📈 Key Visualizations
 
 Choropleth Map of Global Happiness Scores (2019)
+![image](https://github.com/user-attachments/assets/f4f436c9-064a-43f9-b797-e497c74ea401)
 
 
 
-- Heatmap of correlation between happiness factors.
+Heatmap of correlation between happiness factors.
 ![image](https://github.com/user-attachments/assets/7f9fac14-091c-4381-9ce0-625512ffe56e)
 
 
